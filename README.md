@@ -42,6 +42,9 @@ https://yojana-sahayak.bolt.host
 
 ## Team
 Team name - (Ctrl+Alt+Win)
+
 Leader - Piyush Gothwal
+
 UI/UX designer - Mehak 
+
 Content Producer - Riya Sharma 
