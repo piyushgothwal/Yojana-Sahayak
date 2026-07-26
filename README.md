@@ -41,9 +41,9 @@ https://yojana-sahayak.bolt.host
 - Expand to state-specific schemes and full pan-India coverage
 
 ## Team
-Team name - (Ctrl+Alt+Win)
+Team Name - (Ctrl+Alt+Win)
 
-Leader - Piyush Gothwal
+Team Leader - Piyush Gothwal
 
 UI/UX designer - Mehak 
 
